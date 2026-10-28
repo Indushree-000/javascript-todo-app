@@ -1,0 +1,28 @@
+h1{
+    color:crimson;
+    font-style: italic;
+    padding-left: 30%;
+}
+.todo{
+    background-color:peachpuff;
+    width: 50%;
+    border: 2px solid black;
+    border-radius: 25px;
+    margin-left: 25%;
+    margin-top: 10%;
+    position:absolute;
+    align-items: center;
+}
+.inpbtn{
+    padding-left: 25%;
+}
+button :hover{
+    background-color: pink;
+}
+button{
+    border-radius: 15%;
+    background-color:rgb(95, 160, 160);
+}
+li{
+    color:darkred;
+}
